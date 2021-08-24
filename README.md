@@ -14,6 +14,8 @@ Chip for AI
 * Google Cloud TPU
   * [Google Launches TPU v4 AI Chips](https://www.hpcwire.com/2021/05/20/google-launches-tpu-v4-ai-chips/)
   * [Ten Lessons From Three Generations Shaped Google's TPUv4i](https://ieeexplore.ieee.org/document/9499913)
+* Tesla Project Dojo
+  * [Tesla's AI chip REVEALED! (Project Dojo) from Tesla AI Days](https://www.youtube.com/watch?v=DSw3IwsgNnc)
 * [Cerebras](https://cerebras.net)
   * https://www.cmu.edu/psc/aibd/neocortex/index.html
   * https://www.servethehome.com/our-interview-with-andrew-feldman-ceo-of-cerebras-systems/
