@@ -50,6 +50,9 @@ Chip for AI
 * [LightOn](https://lighton.ai/)
   * https://lighton.ai/wp-content/uploads/2021/06/LightOn-Appliance-spec-sheet-v1.1.pdf
   * [LightOn Cloud](https://cloud.lighton.ai/)
+* [Lightmatter](https://lightmatter.co/)
+  * [Processor Envise](https://lightmatter.co/products/envise/): Envise is a general-purpose machine learning accelerator that combines photonics and transistor-based systems in a single, compact module. 
+  * [Interconnect Passage](https://lightmatter.co/products/passage/): Passage is a wafer-scale, programmable photonic interconnect that enables arrays of heterogeneous chips to communicate with unprecedented bandwidth and energy efficiency. 
 
 ## Neuromorphic
 * [Numenta](https://numenta.com)
