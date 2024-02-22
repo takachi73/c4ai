@@ -66,7 +66,7 @@ Chip for AI
 * [SynSense AG (former aiCTX AG)](https://www.synsense-neuromorphic.com/)
   * https://eetimes.itmedia.co.jp/ee/articles/1811/21/news038.html
   * [tinyML Talks Martino Sorbaro: Always-on visual classification below 1 mW with spiking convolutional networks on Dynap-CNN](https://www.youtube.com/watch?v=9nLAWeOtODc)
-* [SynSENSE Speck](https://www.synsense.ai/products/speck-2/)
+* [SynSense Speck](https://www.synsense.ai/products/speck-2/)
   * Speck™ is a fully event-driven neuromorphic vision SoC. Speck™ is able to support large-scale spiking convolutional neural network (sCNN) with a fully asynchronous chip architecture. Speck™ is fully configurable with the spiking neuron capacity of 320K. Furthermore, it integrates the state-of-art dynamic vision sensor (DVS) that enables fully event-driven based, real-time, highly integrated solution for varies dynamic visual scene. For classical applications, Speck™ can provide intelligence upon the scene at only mWs with a response latency in few ms.
 
 ## Reports
