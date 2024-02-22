@@ -2,7 +2,7 @@
 Chip for AI
 
 ## GPU for training
-* [NVIDIA](https://www.nvidia.com/ja-jp/data-center/a100/)
+* [NVIDIA](https://www.nvidia.com/en-us/data-center/h100/)
   * [Introducing the NVIDIA HPC SDK](https://developer.nvidia.com/gtc/2020/video/s21766)
   * [NVIDIA ARM HPC Developer Kit](https://developer.nvidia.com/arm-hpc-devkit)
     * Gigabyte G242-P32: 1x Ampere Altra Q80-30 (ARM 80 cores) 512GB DDR4 Mem + 2x NVIDIA A100 40GB PCIe + 2x NVIDIA BlueField-2 E-Series DPU (200GbE/HDR)
@@ -12,6 +12,7 @@ Chip for AI
 
 ## DL Chips
 * Google Cloud TPU
+  * [xpanding our AI-optimized infrastructure portfolio: Introducing Cloud TPU v5e and announcing A3 GA](cloud.google.com/blog/products/compute/announcing-cloud-tpu-v5e-and-a3-gpus-in-ga?hl=en)
   * [Google Launches TPU v4 AI Chips](https://www.hpcwire.com/2021/05/20/google-launches-tpu-v4-ai-chips/)
   * [Ten Lessons From Three Generations Shaped Google's TPUv4i](https://ieeexplore.ieee.org/document/9499913)
 * Tesla Project Dojo
